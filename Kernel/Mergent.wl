@@ -8,6 +8,13 @@ ReconstructExpression::usage = "ReconstructExpression[<| h -> argindex |>] retur
 MergeExpression::usage = "MergeExpression[e1, e2, ...] merges the ei by head"
 
 Begin["`Private`"];
+(* 
+	TODO: All arguments should be held
+	
+	In[5]:= MergeExpression[head[a], head[1 + 1, c]]
+
+	Out[5]= {head[{a, 2}, {c}]}
+*)
 
 (* -------------------------- DeconstructExpression ------------------------- *)
 (* A deconstructed expression is an Association where the Head of expr maps to the PositionIndex of its arguments *)
