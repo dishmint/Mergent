@@ -1,6 +1,8 @@
 # Mergent
 
-Consolidate expressions with the same head
+Consolidate expressions with the same head.
+
+---
 
 Deconstruct an expression:
 
