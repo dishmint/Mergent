@@ -36,7 +36,7 @@ Cell["", "FileManagerTopSpacer",
  CellGroupingRules->{"SectionGrouping", 99},
  TaggingRules->{},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1078504820,ExpressionUUID->"49f0e175-1e30-4a53-b8b3-e66f105b71d9"],
+ CellID->1078504820,ExpressionUUID->"063c12ea-b7b1-40fe-ae06-b7512f160e1c"],
 
 Cell[CellGroupData[{
 
@@ -61,7 +61,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"5c0dd721-6f6b-4704-8adb-80dcc6ce5b45"]], \
+   "Text"}]],ExpressionUUID->"c5f73422-fbb0-451c-80fe-f41803bd5181"]], \
 "FileManagerDirectory",
  CellMargins->{{Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 100},
@@ -72,7 +72,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDocumentationIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1668529060,ExpressionUUID->"7f2994bc-cef4-43a1-9bb5-dd817657373d"],
+ CellID->1668529060,ExpressionUUID->"60b015f2-cfdd-4d95-a337-28b8a64a3c3c"],
 
 Cell[CellGroupData[{
 
@@ -97,7 +97,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation", "English"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"44c16ee8-ef53-412e-8069-8f21163723a1"]], \
+   "Text"}]],ExpressionUUID->"3fb68fba-5bd2-4f67-80ce-4cecb0aaf53a"]], \
 "FileManagerDirectory",
  CellMargins->{{23 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 110},
@@ -108,7 +108,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1435454877,ExpressionUUID->"2cb59a8c-3959-4e2b-ac81-b78a98e7f166"],
+ CellID->1435454877,ExpressionUUID->"b3b3a2ad-2385-41c7-ab9c-9ad8c65db7bd"],
 
 Cell[TextData[Cell[BoxData[
  InterpretationBox[
@@ -131,7 +131,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation", "English", "Guides"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"22b60365-ab65-4c02-9821-ee44967424cf"]], \
+   "Text"}]],ExpressionUUID->"40714a3d-0989-4843-b3f8-ab5b569334f2"]], \
 "FileManagerDirectory",
  CellMargins->{{46 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 120},
@@ -142,7 +142,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerEmptyDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->858827341,ExpressionUUID->"d91f5f06-c2ad-448e-843d-3849e35ee252"],
+ CellID->858827341,ExpressionUUID->"84711bcc-7ea4-456d-b550-d96b6413c79b"],
 
 Cell[CellGroupData[{
 
@@ -167,7 +167,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation", "English", "ReferencePages"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"9f34d095-e433-4655-a2e1-531ed219cfa9"]], \
+   "Text"}]],ExpressionUUID->"e004739c-a572-40a7-aefe-713dcf7577ee"]], \
 "FileManagerDirectory",
  CellMargins->{{46 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 120},
@@ -178,7 +178,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1073528700,ExpressionUUID->"8b317d9a-4e8f-401d-900e-fbf6bcf9f971"],
+ CellID->1073528700,ExpressionUUID->"e06e7944-546e-4720-b72a-e211b9e0e680"],
 
 Cell[CellGroupData[{
 
@@ -204,7 +204,7 @@ Cell[TextData[Cell[BoxData[
     "Symbols"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"ba97b405-fbe5-4f73-bf12-53119fda80cd"]], \
+   "Text"}]],ExpressionUUID->"33127dd0-e6bc-4395-bc0d-8bb3c3408207"]], \
 "FileManagerDirectory",
  CellMargins->{{69 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 130},
@@ -215,7 +215,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1786742453,ExpressionUUID->"4708ce9e-c33b-4ec6-b77d-cfdf4e5c8f88"],
+ CellID->1786742453,ExpressionUUID->"ba6b7189-62cd-49f7-8031-3519b0eab57d"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -241,7 +241,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1516571570,ExpressionUUID->"14b290c2-accb-4a16-bede-53a503cbf30e"],
+ CellID->1516571570,ExpressionUUID->"689caf9a-d9d1-4387-b22c-4998ff82f6d4"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -267,7 +267,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->534970747,ExpressionUUID->"f25a2fe6-9b5f-491c-ad89-be96142a2ff5"],
+ CellID->534970747,ExpressionUUID->"acc1c0f7-0543-4028-82d7-527a87d2e548"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -293,7 +293,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1886798487,ExpressionUUID->"d9b40c3f-e1c8-496e-9a08-87bc60cad7e2"]
+ CellID->1886798487,ExpressionUUID->"2d644dac-9f93-4a08-9e07-35fc14e42bf6"]
 }, Closed]]
 }, Closed]],
 
@@ -318,7 +318,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation", "English", "Tutorials"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"6f136084-de3e-4e0e-a31d-b7a7c857b1f6"]], \
+   "Text"}]],ExpressionUUID->"76728a40-2abd-48d5-96df-0b314679419b"]], \
 "FileManagerDirectory",
  CellMargins->{{46 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 120},
@@ -329,7 +329,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerEmptyDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1678639407,ExpressionUUID->"54ed5a0e-145b-42bb-9515-f16b39ce7d57"]
+ CellID->1678639407,ExpressionUUID->"8a5245df-2ada-410d-88d5-419dda8fcc64"]
 }, Closed]]
 }, Open  ]],
 
@@ -356,7 +356,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Kernel"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"c85bc021-97ac-4e28-9396-4187618a794e"]], \
+   "Text"}]],ExpressionUUID->"39181941-c54f-4147-a91b-ed57660a9276"]], \
 "FileManagerDirectory",
  CellMargins->{{Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 100},
@@ -367,7 +367,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerKernelIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1126448894,ExpressionUUID->"41258c52-c4dd-491c-bc37-7b7ece7005fd"],
+ CellID->1126448894,ExpressionUUID->"ac7b3772-9fa9-4f41-bddf-e2bed5a80038"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -391,7 +391,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerWLIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->10729506,ExpressionUUID->"ea4ec61d-3cdc-41ef-b03a-cda81c7a1efb"]
+ CellID->10729506,ExpressionUUID->"dff10252-a4bd-4ef5-a157-985ac18d383e"]
 }, Open  ]],
 
 Cell[BoxData[
@@ -416,7 +416,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerPacletInfoIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->2089664641,ExpressionUUID->"5bb5a240-4301-46ed-a081-6d4e87990616"],
+ CellID->2089664641,ExpressionUUID->"27989201-3d75-4e6f-bc45-436e7202ab8f"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -440,7 +440,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerTXTIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1989283856,ExpressionUUID->"b92e00d8-0e2c-4b4d-858d-32c30fe45cef"],
+ CellID->1989283856,ExpressionUUID->"82ccd13e-be68-42f9-9bce-73167f43ec09"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -464,13 +464,13 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1046058249,ExpressionUUID->"184f617b-3a89-485d-afa7-7ec64a13da3b"],
+ CellID->1046058249,ExpressionUUID->"ccc7c15e-e399-445c-bcd3-f91cb94b2ec7"],
 
 Cell["", "FileManagerBottomSpacer",
  CellGroupingRules->{"SectionGrouping", 100},
  TaggingRules->{},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1799856601,ExpressionUUID->"7e7b93b6-2713-471d-a605-2be0f19310d2"]
+ CellID->1799856601,ExpressionUUID->"20d38e90-823c-4819-9a9b-dec7587123dd"]
 }, Open  ]]
 }, Open  ]],
 
@@ -989,10 +989,11 @@ Cell[BoxData[
  CellID->114565048,ExpressionUUID->"0e59a7c0-f547-4081-801c-0b8bf2d0b668"]
 }, Open  ]],
 
-Cell["Reconstruct an expression after merging:", "Text",
+Cell["Reconstruct a deconstructed expression:", "Text",
  TaggingRules->{},
  CellChangeTimes->{{3.957226535128497*^9, 3.957226599735317*^9}, {
-  3.957226762353341*^9, 3.957226765634934*^9}},
+  3.957226762353341*^9, 3.957226765634934*^9}, {3.957830084903482*^9, 
+  3.957830092491001*^9}},
  CellTags->"DefaultContent",
  CellID->1390317870,ExpressionUUID->"b7f18379-7e34-4375-bb0b-2ba16481f9b6"],
 
@@ -1048,10 +1049,11 @@ Cell[BoxData[
  CellID->1284090153,ExpressionUUID->"279aec6f-76a4-41d1-b4cd-ca435174bafa"]
 }, Open  ]],
 
-Cell["Reconstruct an atomic expression:", "Text",
+Cell["Reconstruct a deconstructed atomic expression:", "Text",
  TaggingRules->{},
  CellChangeTimes->{{3.957226535128497*^9, 3.957226567453577*^9}, {
-  3.957226605100315*^9, 3.957226605372069*^9}},
+  3.957226605100315*^9, 3.957226605372069*^9}, {3.9578300995358458`*^9, 
+  3.957830102232275*^9}},
  CellTags->"DefaultContent",
  CellID->1838129755,ExpressionUUID->"33d72af0-3461-43c1-8e60-924f24e8df56"],
 
@@ -1271,6 +1273,7 @@ GitHub), you can provide the URL here.", "MoreInfoText"], Background ->
  CellID->221376991,ExpressionUUID->"44b9af08-5379-4267-bac1-45e51df33409"],
 
 Cell["https://github.com/dishmint/Mergent", "Text",
+ TaggingRules->{},
  CellID->1223199757,ExpressionUUID->"a517d3e3-7321-4892-ac2d-be3e786b0981"]
 }, Open  ]],
 
@@ -2887,9 +2890,9 @@ system do not require a disclosure.", "MoreInfoText"], Background ->
                    GrayLevel[0.95], FrameMargins -> 20, FrameStyle -> 
                    GrayLevel[0.9], RoundingRadius -> 5, ImageSize -> {
                     Scaled[0.65], Automatic}]], "MoreInfoText", Deletable -> 
-                 True, CellTags -> {
-                  "SectionMoreInfoDisclosuresPacletDependencies"}, 
-                 CellMargins -> {{66, 66}, {15, 15}}], 
+                 True, 
+                 CellTags -> {"SectionMoreInfoDisclosuresPacletDependencies"},
+                  CellMargins -> {{66, 66}, {15, 15}}], 
                 HoldComplete[
                  EvaluationCell[]], "Click for more information"}, 
                "InlineMoreInfoOpenerButtonTemplate"]}, "RowDefault"], 
@@ -3223,7 +3226,7 @@ Cell["Additional information about limitations, issues, etc.", "Text",
 }, Open  ]]
 }, Open  ]]
 },
-WindowSize->{720, 846},
+WindowSize->{1267, 846},
 WindowMargins->{{Automatic, 0}, {Automatic, 0}},
 WindowTitle->"Mergent | Definition Notebook",
 DockedCells->{
@@ -3518,70 +3521,8 @@ DockedCells->{
          ItemBox[
           StyleBox[
           "\"Found 1 suggestion\"", LineBreakWithin -> Automatic, LineIndent -> 
-           0, StripOnInput -> False], ItemSize -> Fit, StripOnInput -> False], 
-         StyleBox[
-          ActionMenuBox[
-           FrameBox[
-            TemplateBox[{
-              TagBox[
-               GridBox[{{
-                  TemplateBox[{
-                    TemplateBox[{
-                    PaneBox[
-                    TemplateBox[{
-                    RGBColor[
-                    0.49019607843137253`, 0.49019607843137253`, 
-                    0.49019607843137253`]}, "HintPodIconHint"], 
-                    ImageSize -> {12, 12}, ImageSizeAction -> "ShrinkToFit", 
-                    BaselinePosition -> Scaled[0.1]], 
-                    TemplateBox[{1}, "Spacer1"], 
-                    StyleBox[
-                    "1", FontSize -> 14, FontWeight -> Plain, FontColor -> 
-                    GrayLevel[0.25], FontFamily -> "Source Sans Pro", 
-                    StripOnInput -> False]}, "RowDefault"], 
-                    "\"Suggestions found\""}, "PrettyTooltipTemplate"]}}, 
-                AutoDelete -> False, 
-                GridBoxItemSize -> {
-                 "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}], 
-               "Grid"], 
-              GraphicsBox[{
-                GrayLevel[0.4], 
-                AbsoluteThickness[2], 
-                CapForm["Round"], 
-                LineBox[{{-1, 0}, {0, -1}, {1, 0}}]}, {
-               ImageSize -> {13, 9}, BaselinePosition -> Scaled[0.2], 
-                ImagePadding -> {{3, 3}, {3, 3}}, AspectRatio -> Full}]}, 
-             "RowDefault"], DefaultBaseStyle -> "HighlightedInput", 
-            StripOnInput -> False, ImageSize -> {Automatic, 19}, 
-            BaselinePosition -> Baseline, Background -> GrayLevel[1], 
-            FrameStyle -> Dynamic[
-              If[
-               CurrentValue["MouseOver"], 
-               Hue[0.55, 0.82, 0.87], 
-               GrayLevel[0.8]]], FrameMargins -> {{4, 4}, {1, 1}}, 
-            Alignment -> {Center, Baseline}], {TemplateBox[{
-               PaneBox[
-                TemplateBox[{
-                  RGBColor[
-                  0.49019607843137253`, 0.49019607843137253`, 
-                   0.49019607843137253`]}, "HintPodIconHint"], 
-                ImageSize -> {10, 10}, ImageSizeAction -> "ShrinkToFit", 
-                BaselinePosition -> Scaled[0.1]], "\" \"", 
-               "\"Suggested URL: \
-\\\"https://github.com/dishmint/Mergent\\\"\""}, "RowDefault"] :> 
-            DefinitionNotebookClient`WithCurrentNotebook[
-              EvaluationNotebook[], 
-              DefinitionNotebookClient`LoadDefinitionNotebook[
-               "Paclet", DefinitionNotebookClient`$CurrentNotebook]; 
-              DefinitionNotebookClient`PackageScope`setHint[
-               "Suggestion", "Paclet", 
-                DefinitionNotebookClient`$CurrentNotebook, 
-                "da72918d-7a5f-4d03-ae63-1e6d868a40ef", 221376991, 
-                "SuggestedSourceURL", {
-                "https://github.com/dishmint/Mergent"}]; 
-              DefinitionNotebookClient`PackageScope`seekAfter[221376991]; 
-              Null]}, Appearance -> None], "BoxID" -> "WarningCountButton", 
-          StripOnInput -> False], 
+           0, StripOnInput -> False], ItemSize -> Fit, StripOnInput -> False],
+          "", 
          TagBox[
           ButtonBox[
            TagBox[
@@ -3647,6 +3588,187 @@ DockedCells->{
                   DefinitionNotebookClient`Stripes`PackagePrivate`c$, 
                    "b7f55d90-0e07-45e3-bcc0-62cdfbfba0d9"]]]]]], Appearance -> 
            None, BoxID -> "b7f55d90-0e07-45e3-bcc0-62cdfbfba0d9", Evaluator -> 
+           Automatic, Method -> "Preemptive"], 
+          MouseAppearanceTag["LinkHand"]]}}, 
+       GridBoxAlignment -> {"Columns" -> {{Left}}, "Rows" -> {{Baseline}}}, 
+       AutoDelete -> False, 
+       GridBoxItemSize -> {
+        "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}], "Grid"], 
+     "Text", FontSize -> 12, FontColor -> GrayLevel[0.25], StripOnInput -> 
+     False]], "StripeCell", CellFrameMargins -> {{20, 5}, {2, 2}}, 
+   CellFrame -> {{0, 0}, {1, 0}}, CellFrameColor -> GrayLevel[0.75]], 
+  Cell[
+   BoxData[
+    StyleBox[
+     TagBox[
+      GridBox[{{
+         OverlayBox[{
+           StyleBox[
+            TagBox[
+             DynamicModuleBox[{Typeset`var$$ = False}, 
+              InterpretationBox[
+               StyleBox[
+                PaneSelectorBox[{False -> GridBox[{{
+                    OpenerBox[
+                    Dynamic[Typeset`var$$], Appearance -> Automatic, Enabled -> 
+                    Automatic, AutoAction -> False, ContinuousAction -> 
+                    False], 
+                    StyleBox[
+                    DynamicBox[
+                    ToBoxes[
+                    DateString[
+                    TimeZoneConvert[
+                    DateObject[
+                    3.957830111394825`16.350032137477207*^9, TimeZone -> 
+                    0]], {"MonthName", " ", "DayShort", ", ", "Year", " ", 
+                    "Hour12Short", ":", "Minute", " ", "AMPMLowerCase"}], 
+                    StandardForm], SingleEvaluation -> True, Evaluator -> 
+                    "System"], FontSlant -> Italic, FontColor -> 
+                    GrayLevel[0.5], FontSize -> 0.9 Inherited, StripOnInput -> 
+                    False]}}, GridBoxAlignment -> {"Columns" -> {{Left}}}, 
+                    AutoDelete -> False, 
+                    GridBoxBackground -> {"Columns" -> {{Automatic}}}, 
+                    GridBoxItemSize -> {
+                    "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
+                    GridBoxSpacings -> {
+                    "Columns" -> {{0.2}}, "Rows" -> {{0.5}}}, 
+                    BaselinePosition -> {1, 1}], True -> GridBox[{{
+                    OpenerBox[
+                    Dynamic[Typeset`var$$], Appearance -> Automatic, Enabled -> 
+                    Automatic, AutoAction -> False, ContinuousAction -> 
+                    False], 
+                    StyleBox[
+                    DynamicBox[
+                    ToBoxes[
+                    DateString[
+                    TimeZoneConvert[
+                    DateObject[
+                    3.957830111394825`16.350032137477207*^9, TimeZone -> 
+                    0]], {"MonthName", " ", "DayShort", ", ", "Year", " ", 
+                    "Hour12Short", ":", "Minute", " ", "AMPMLowerCase"}], 
+                    StandardForm], SingleEvaluation -> True, Evaluator -> 
+                    "System"], FontSlant -> Italic, FontColor -> 
+                    GrayLevel[0.5], FontSize -> 0.9 Inherited, StripOnInput -> 
+                    False]}, {"", 
+                    PaneBox["\"\"", ImageMargins -> 0]}}, 
+                    GridBoxAlignment -> {"Columns" -> {{Left}}}, AutoDelete -> 
+                    False, GridBoxBackground -> {"Columns" -> {{Automatic}}}, 
+                    GridBoxItemSize -> {
+                    "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
+                    GridBoxSpacings -> {
+                    "Columns" -> {{0.2}}, "Rows" -> {{0.5}}}, 
+                    BaselinePosition -> {1, 1}]}, 
+                 Dynamic[
+                  TrueQ[Typeset`var$$]], Alignment -> Automatic, ImageSize -> 
+                 Automatic, ImageMargins -> 0, BaseStyle -> {}, 
+                 DefaultBaseStyle -> "OpenerView", BaselinePosition -> 
+                 Baseline], Deployed -> False, StripOnInput -> False], 
+               OpenerView[{
+                 Style[
+                  Dynamic[
+                   DateString[
+                    TimeZoneConvert[
+                    DateObject[
+                    3.957830111394825`16.350032137477207*^9, TimeZone -> 
+                    0]], {"MonthName", " ", "DayShort", ", ", "Year", " ", 
+                    "Hour12Short", ":", "Minute", " ", "AMPMLowerCase"}], 
+                   SingleEvaluation -> True, Evaluator -> "System"], 
+                  FontSlant -> Italic, FontColor -> GrayLevel[0.5], FontSize -> 
+                  0.9 Inherited], ""}, False]], DynamicModuleValues -> 
+              Automatic], Setting[#, {0}]& ], ShowContents -> False, 
+            StripOnInput -> False], 
+           StyleBox[
+            DynamicBox[
+             ToBoxes[
+              DateString[
+               TimeZoneConvert[
+                DateObject[
+                3.957830111394825`16.350032137477207*^9, TimeZone -> 0]], {
+               "MonthName", " ", "DayShort", ", ", "Year", " ", "Hour12Short",
+                 ":", "Minute", " ", "AMPMLowerCase"}], StandardForm], 
+             SingleEvaluation -> True, Evaluator -> "System"], FontSlant -> 
+            Italic, FontColor -> GrayLevel[0.5], FontSize -> 0.9 Inherited, 
+            StripOnInput -> False]}, Alignment -> {Right, Baseline}], 
+         "\"   \"", 
+         ItemBox[
+          StyleBox[
+           TagBox[
+            GridBox[{{
+               StyleBox["\"\[Checkmark]\"", FontColor -> RGBColor[0, 
+                  Rational[2, 3], 0], FontSize -> 16, FontWeight -> "Heavy", 
+                StripOnInput -> False], "\"No issues found\""}}, 
+             GridBoxAlignment -> {
+              "Columns" -> {{Left}}, "Rows" -> {{Center}}}, AutoDelete -> 
+             False, GridBoxItemSize -> {
+              "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
+             GridBoxSpacings -> {"Columns" -> {{0.5}}}], "Grid"], 
+           LineBreakWithin -> Automatic, LineIndent -> 0, StripOnInput -> 
+           False], ItemSize -> Fit, StripOnInput -> False], "\"\"", 
+         TagBox[
+          ButtonBox[
+           TagBox[
+            PaneSelectorBox[{False -> GraphicsBox[{
+                 GrayLevel[
+                  NCache[
+                   Rational[64, 85], 0.7529411764705882]], 
+                 
+                 PolygonBox[{{-0.282842712474619, -0.42426406871192845`}, \
+{-0.42426406871192845`, -0.282842712474619}, {0.282842712474619, 
+                  0.42426406871192845`}, {0.42426406871192845`, 
+                  0.282842712474619}}], 
+                 
+                 PolygonBox[{{0.42426406871192845`, -0.282842712474619}, {
+                  0.282842712474619, -0.42426406871192845`}, \
+{-0.42426406871192845`, 0.282842712474619}, {-0.282842712474619, 
+                  0.42426406871192845`}}]}, ImageSize -> 18, PlotRangePadding -> 
+                0, PlotRange -> 0.7, Background -> None], True -> GraphicsBox[{
+                 GrayLevel[
+                  NCache[
+                   Rational[128, 255], 0.5019607843137255]], 
+                 
+                 PolygonBox[{{-0.282842712474619, -0.42426406871192845`}, \
+{-0.42426406871192845`, -0.282842712474619}, {0.282842712474619, 
+                  0.42426406871192845`}, {0.42426406871192845`, 
+                  0.282842712474619}}], 
+                 
+                 PolygonBox[{{0.42426406871192845`, -0.282842712474619}, {
+                  0.282842712474619, -0.42426406871192845`}, \
+{-0.42426406871192845`, 0.282842712474619}, {-0.282842712474619, 
+                  0.42426406871192845`}}]}, ImageSize -> 18, PlotRangePadding -> 
+                0, PlotRange -> 0.7, Background -> None]}, 
+             Dynamic[
+              CurrentValue["MouseOver"]], ImageSize -> Automatic, 
+             FrameMargins -> 0], 
+            MouseAppearanceTag["LinkHand"]], ButtonFunction :> 
+           With[{DefinitionNotebookClient`Stripes`PackagePrivate`nbo$ = 
+              EvaluationNotebook[]}, 
+             CurrentValue[
+              DefinitionNotebookClient`Stripes`PackagePrivate`nbo$, 
+               DockedCells] = If[
+               TrueQ[
+                MemberQ[
+                 CurrentValue["ModifierKeys"], "Control"]], 
+               DeleteCases[
+                Flatten[{
+                  CurrentValue[
+                  DefinitionNotebookClient`Stripes`PackagePrivate`nbo$, 
+                   DockedCells]}], 
+                Cell[
+                 Blank[], "StripeCell", 
+                 BlankNullSequence[]]], 
+               DeleteCases[
+                Flatten[{
+                  CurrentValue[
+                  DefinitionNotebookClient`Stripes`PackagePrivate`nbo$, 
+                   DockedCells]}], 
+                Condition[
+                 Pattern[DefinitionNotebookClient`Stripes`PackagePrivate`c$, 
+                  Blank[Cell]], 
+                 Not[
+                  FreeQ[
+                  DefinitionNotebookClient`Stripes`PackagePrivate`c$, 
+                   "599f1086-4fc6-45fb-ab73-00a41b81938a"]]]]]], Appearance -> 
+           None, BoxID -> "599f1086-4fc6-45fb-ab73-00a41b81938a", Evaluator -> 
            Automatic, Method -> "Preemptive"], 
           MouseAppearanceTag["LinkHand"]]}}, 
        GridBoxAlignment -> {"Columns" -> {{Left}}, "Rows" -> {{Baseline}}}, 
@@ -5087,6 +5209,7 @@ h/Fh4QMzDxZ+6PEFAOibv7E=
                    FaceForm[{
                     RGBColor[0.55294, 0.67451, 0.81176], 
                     Opacity[1.]}], 
+                   
                    FilledCurveBox[{{{0, 2, 0}, {0, 1, 0}, {0, 1, 0}}}, {{{
                     103.52, 249.47}, {43.272, 214.76}, {43.335, 284.22}, {
                     103.52, 249.47}}}]}, {
@@ -5930,6 +6053,7 @@ h/Fh4QMzDxZ+6PEFAOibv7E=
                 FaceForm[{
                   RGBColor[0.6902, 0.58824, 0.81176], 
                   Opacity[1.]}], 
+                
                 FilledCurveBox[{{{0, 2, 0}, {0, 1, 0}, {0, 1, 0}}}, {{{120.87,
                   350.62}, {120.8, 281.08}, {60.68, 315.87}, {120.87, 
                  350.62}}}]}, {
@@ -10806,6 +10930,7 @@ directory.\""}, "PacletDirectoryChooserErrorTemplate"]], "AttachedMessage"],
                     GraphicsBox[{
                     Thickness[0.02439], 
                     StyleBox[{
+                    
                     FilledCurveBox[{{{0, 2, 0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 
                     0}}}, {{{12.383, 36.391}, {35.711, 36.391}, {35.711, 
                     13.063}, {12.383, 13.063}, {12.383, 36.391}}}]}, {
