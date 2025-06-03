@@ -1,0 +1,462 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Wolfram 14.2' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       154,          7]
+NotebookDataLength[     17346,        452]
+NotebookOptionsPosition[     12565,        349]
+NotebookOutlinePosition[     14857,        406]
+CellTagsIndexPosition[     14772,        401]
+WindowTitle->ReconstructExpression
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[GridBox[{
+   {GridBox[{
+      {
+       ItemBox[Cell[BoxData[
+         RowBox[{
+          TemplateBox[{12},
+           "Spacer1"], Cell["FAIZON ZAMAN/ MERGENT SYMBOL", "PacletNameCell",
+           TextAlignment->Center,ExpressionUUID->
+           "3fe6024f-6ab1-4d3d-a071-0ff7f87eac38"], 
+          TemplateBox[{8},
+           "Spacer1"]}]],
+         TextAlignment->Center,ExpressionUUID->
+         "06b6e2ad-14d0-4ad5-b6c9-cd9ae068e395"],
+        Background->RGBColor[0.490196, 0.576471, 0.690196],
+        ItemSize->Full], ""}
+     },
+     GridBoxAlignment->{"Rows" -> {{Center}}},
+     GridBoxItemSize->{"Columns" -> {Full, 
+         Scaled[0.02]}, "Rows" -> {{2.5}}}], Cell[TextData[Cell[BoxData[
+     TagBox[
+      ActionMenuBox[
+       FrameBox[Cell[TextData[{
+         "URL",
+         " ",
+         Cell[BoxData[
+          GraphicsBox[
+           {GrayLevel[0.66667], Thickness[0.13], 
+            LineBox[{{-1.8, 0.5}, {0, 0}, {1.8, 0.5}}]},
+           AspectRatio->1,
+           ImageSize->20,
+           PlotRange->{{-3, 4}, {-1, 1}}]],ExpressionUUID->
+          "23337c1e-d4cb-4173-b696-ab099fc39826"]
+        }],ExpressionUUID->"20942c5f-24db-4e20-9f0b-ef5c9ccd909c"],
+        StripOnInput->False],{
+       "\"FaizonZaman/Mergent/ref/ReconstructExpression\"" :> None, 
+        "\"Copy Wolfram Documentation Center URL\"" :> 
+        CopyToClipboard["FaizonZaman/Mergent/ref/ReconstructExpression"], 
+        Delimiter, "\"Copy web URL\"" :> 
+        Module[{DocumentationSearch`Private`nb$}, 
+          DocumentationSearch`Private`nb$ = 
+           NotebookPut[
+            Notebook[{
+              Cell[BoxData[
+                MakeBoxes[
+                 Hyperlink[
+                  "http://reference.wolfram.com/language/FaizonZaman/Mergent/\
+ref/ReconstructExpression.html"], StandardForm]], "Input", TextClipboardType -> 
+                "PlainText"]}, Visible -> False]]; 
+          SelectionMove[DocumentationSearch`Private`nb$, All, Notebook]; 
+          FrontEndTokenExecute[DocumentationSearch`Private`nb$, "Copy"]; 
+          NotebookClose[DocumentationSearch`Private`nb$]; Null], 
+        "\"Go to web URL\"" :> 
+        FrontEndExecute[{
+          NotebookLocate[{
+            URL[If[TrueQ[False], 
+                "http://reference.wolfram.com/system-modeler/", 
+                "http://reference.wolfram.com/language/"] <> 
+              "FaizonZaman/Mergent/ref/ReconstructExpression" <> ".html"], 
+             None}]}]},
+       Appearance->None,
+       MenuAppearance->Automatic,
+       MenuStyle->"URLMenu"],
+      MouseAppearanceTag["LinkHand"]]],
+     LineSpacing->{1.4, 0},ExpressionUUID->
+     "7d57cbb7-b072-4404-ba10-106aecc712ee"]], "AnchorBar",
+     CacheGraphics->False,ExpressionUUID->
+     "ff72b972-9494-4c12-b3ba-3b29a393c474"]}
+  }]], "AnchorBarGrid",
+ GridBoxOptions->{GridBoxItemSize->{"Columns" -> {
+     Scaled[0.65], {
+      Scaled[0.34]}}, "ColumnsIndexed" -> {}, "Rows" -> {{1.}}, 
+   "RowsIndexed" -> {}}},
+ CellID->1,ExpressionUUID->"6ef844b7-5e1b-42b8-b98e-d54c0fc6ada6"],
+
+Cell["FaizonZaman`Mergent`", "ContextNameCell",ExpressionUUID->"618595a5-6ba9-4865-bfb7-6b40a816d5be"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[GridBox[{
+   {Cell[TextData[{
+     Cell[
+     "ReconstructExpression", "ObjectName",ExpressionUUID->
+      "691444d0-84a6-463d-9741-1e392247d260"],
+     Cell[BoxData[
+      TemplateBox[{8},
+       "Spacer1"]],ExpressionUUID->"ba83f26b-384d-4799-893d-e84229217dde"],
+     Cell[BoxData[
+     ""], "ObjectNameTranslation",ExpressionUUID->
+      "238ab2b1-e12b-41e8-9717-ae6eeb5586b3"]
+    }],ExpressionUUID->"39017b02-0915-423e-a7c7-5381b327a3ad"], 
+    "\[SpanFromLeft]"}
+  }]], "ObjectNameGrid",ExpressionUUID->"2e9d9308-1cd0-4bf5-9434-\
+d7329f03f541"],
+
+Cell[BoxData[GridBox[{
+   {"", Cell[TextData[{
+     Cell[BoxData[
+      RowBox[{
+       TemplateBox[{
+         Cell[
+          TextData["ReconstructExpression"]], 
+         "paclet:FaizonZamanMergent/ref/ReconstructExpression", 
+         "FaizonZamanMergent Package Symbol"},
+        "PackageLink",
+        BaseStyle->"InlineFormula"], "[", 
+       RowBox[{"<|", " ", 
+        RowBox[{
+         StyleBox["h", "TI"], " ", "\[Rule]", " ", 
+         StyleBox["argindex", "TI"]}], " ", "|>"}], "]"}]], "InlineFormula",
+      FontFamily->"Source Sans Pro",ExpressionUUID->
+      "1a7413a5-c94e-4736-8bc3-d389313d5c2d"],
+     "\[LineSeparator]returns an expression with head ",
+     Cell[BoxData[
+      StyleBox["h", "TI"]], "InlineFormula",
+      FontFamily->"Source Sans Pro",ExpressionUUID->
+      "d95b4b97-432e-4fae-945d-18addefc30ce"],
+     " and the keys of ",
+     Cell[BoxData[
+      StyleBox["argindex", "TI"]], "InlineFormula",
+      FontFamily->"Source Sans Pro",ExpressionUUID->
+      "594a3978-00eb-448c-941c-a9d61ccfccc8"],
+     " as arguments"
+    }],ExpressionUUID->"0b722bf8-721d-47de-8421-148a7dfa88c6"]}
+  }]], "Usage",
+ CellID->2009673030,ExpressionUUID->"1f8482f8-0bd3-4bdd-8768-d6ac1f2aed2e"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[TextData[{
+ Cell[BoxData[
+  DynamicBox[ToBoxes[
+    If[
+     MatchQ[
+      CurrentValue[
+       EvaluationNotebook[], {
+       TaggingRules, "Openers", "PrimaryExamplesSection"}, Open], 
+      Alternatives[True, Open]], 
+     Style[
+      Graphics[{
+        Thickness[0.18], 
+        RGBColor[0.8509803921568627, 0.396078431372549, 0], 
+        Line[{{-1.8, 0.5}, {0, 0}, {1.8, 0.5}}]}, AspectRatio -> 1, 
+       PlotRange -> {{-3, 4}, {-1, 1}}, ImageSize -> 20], Magnification -> 
+      0.68 Inherited], 
+     Rotate[
+      Style[
+       Graphics[{
+         Thickness[0.18], 
+         RGBColor[0.8509803921568627, 0.396078431372549, 0], 
+         Line[{{-1.8, 0.5}, {0, 0}, {1.8, 0.5}}]}, AspectRatio -> 1, 
+        PlotRange -> {{-3, 4}, {-1, 1}}, ImageSize -> 20], Magnification -> 
+       0.68 Inherited], Rational[1, 2] Pi, {-1.65, -1}]]],
+   ImageSizeCache->{
+    13.600000000000001`, {4.251494140625001, 9.348505859375}}]],
+  ExpressionUUID->"e6053404-c0d1-4381-8368-f280b70ac914"],
+ Cell[BoxData[
+  TemplateBox[{1},
+   "Spacer1"]],ExpressionUUID->"fee7539a-696d-473e-afa1-9af33e162837"],
+ "Examples",
+ "\[NonBreakingSpace]\[NonBreakingSpace]",
+ Cell["(1)", "ExampleCount",ExpressionUUID->
+  "0d1d0350-a5ca-4b9a-85e4-28aa25c59c48"]
+}], "PrimaryExamplesSection",
+ WholeCellGroupOpener->True,
+ CacheGraphics->False,
+ CellTags->"PrimaryExamplesSection",
+ CellID->1245204660,ExpressionUUID->"f43cc7e2-264b-4c60-a8ef-4ce32340ae29"],
+
+Cell[BoxData[
+ RowBox[{"Needs", "[", "\"\<FaizonZaman`Mergent`\>\"", "]"}]], "Input", \
+"ExampleInitialization",
+ CellLabel->"In[1]:=",
+ CellID->172530246,ExpressionUUID->"913a3f15-dc11-49cf-b899-6b4d873cb6a0"],
+
+Cell[CellGroupData[{
+
+Cell[TextData[{
+ Cell[BoxData[
+  DynamicBox[ToBoxes[
+    If[
+     MatchQ[
+      CurrentValue[
+       EvaluationNotebook[], {TaggingRules, "Openers", "ExampleSection", "0"},
+        Closed], 
+      Alternatives[Open, True]], 
+     Style[
+      Graphics[{
+        Thickness[0.18], 
+        RGBColor[0.8509803921568627, 0.396078431372549, 0], 
+        Line[{{-1.8, 0.5}, {0, 0}, {1.8, 0.5}}]}, AspectRatio -> 1, 
+       PlotRange -> {{-3, 4}, {-1, 1}}, ImageSize -> 20], Magnification -> 
+      0.68 Inherited], 
+     Rotate[
+      Style[
+       Graphics[{
+         Thickness[0.18], 
+         RGBColor[0.8509803921568627, 0.396078431372549, 0], 
+         Line[{{-1.8, 0.5}, {0, 0}, {1.8, 0.5}}]}, AspectRatio -> 1, 
+        PlotRange -> {{-3, 4}, {-1, 1}}, ImageSize -> 20], Magnification -> 
+       0.68 Inherited], Rational[1, 2] Pi, {-1.65, -1}]]],
+   ImageSizeCache->{
+    13.600000000000001`, {4.551318359375001, 9.048681640625}}]],
+  ExpressionUUID->"9f6a1211-e690-4c1a-9741-365890e23045"],
+ Cell[BoxData[
+  TemplateBox[{1},
+   "Spacer1"]],ExpressionUUID->"746629de-0df3-40c7-8f73-8baf4a02d134"],
+ "Basic Examples",
+ "\[NonBreakingSpace]\[NonBreakingSpace]",
+ Cell["(1)", "ExampleCount",ExpressionUUID->
+  "a0165c56-8eb1-4108-8cd5-9adb88ce5643"]
+}], "ExampleSection", "ExampleSection",
+ WholeCellGroupOpener->True,
+ CacheGraphics->False,
+ CellID->926580605,ExpressionUUID->"54e774c7-5575-45f5-ba86-524241d8e36a"],
+
+Cell["Reconstruct a deconstructed expression:", "ExampleText",
+ CellID->1739998604,ExpressionUUID->"08f67ee7-f18d-4ee0-9564-e1af24c0d772"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"decon", "=", 
+  RowBox[{"DeconstructExpression", "[", 
+   RowBox[{"head", "[", 
+    RowBox[{"a", ",", "b", ",", "c"}], "]"}], "]"}]}]], "Input",
+ CellProlog:>Needs["FaizonZaman`Mergent`"],
+ CellLabel->"In[1]:=",
+ CellID->2063609831,ExpressionUUID->"3f0bd8ed-895a-4117-8b3c-ecd959936456"],
+
+Cell[BoxData[
+ RowBox[{"\[LeftAssociation]", 
+  RowBox[{"head", "\[Rule]", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{
+     RowBox[{"a", "\[Rule]", 
+      RowBox[{"{", "1", "}"}]}], ",", 
+     RowBox[{"b", "\[Rule]", 
+      RowBox[{"{", "2", "}"}]}], ",", 
+     RowBox[{"c", "\[Rule]", 
+      RowBox[{"{", "3", "}"}]}]}], "\[RightAssociation]"}]}], 
+  "\[RightAssociation]"}]], "Output",
+ CellLabel->"Out[1]=",
+ CellID->964310671,ExpressionUUID->"24e8f437-511c-4e44-9e32-e90ec35b0256"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"ReconstructExpression", "[", "decon", "]"}]], "Input",
+ CellProlog:>Needs["FaizonZaman`Mergent`"],
+ CellLabel->"In[2]:=",
+ CellID->1602436155,ExpressionUUID->"3d57eff3-11c2-4d34-94f2-9eefc9b6b643"],
+
+Cell[BoxData[
+ RowBox[{"head", "[", 
+  RowBox[{"a", ",", "b", ",", "c"}], "]"}]], "Output",
+ CellLabel->"Out[2]=",
+ CellID->1452979472,ExpressionUUID->"a438c13e-abeb-4d1c-b48d-21ce1d240734"]
+}, Open  ]],
+
+Cell["Reconstruct an atomic deconstructed expression:", "ExampleText",
+ CellID->437438103,ExpressionUUID->"7c7b346a-3789-4cb7-9416-287a6dd94533"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"deconAtom", "=", 
+  RowBox[{"DeconstructExpression", "[", "\"\<hello\>\"", "]"}]}]], "Input",
+ CellProlog:>Needs["FaizonZaman`Mergent`"],
+ CellLabel->"In[3]:=",
+ CellID->1850293073,ExpressionUUID->"fcdae490-5fee-4e10-a284-207b9bd7dc8b"],
+
+Cell[BoxData[
+ RowBox[{"\[LeftAssociation]", 
+  RowBox[{"String", "\[Rule]", 
+   RowBox[{"\[LeftAssociation]", 
+    RowBox[{"\<\"hello\"\>", "\[Rule]", 
+     RowBox[{"{", "1", "}"}]}], "\[RightAssociation]"}]}], 
+  "\[RightAssociation]"}]], "Output",
+ CellLabel->"Out[3]=",
+ CellID->824074344,ExpressionUUID->"612191ee-636d-4192-998d-47b38ee7de28"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"ReconstructExpression", "[", "deconAtom", "]"}]], "Input",
+ CellProlog:>Needs["FaizonZaman`Mergent`"],
+ CellLabel->"In[4]:=",
+ CellID->1095460105,ExpressionUUID->"9389ce9c-5d4c-4355-bd5d-7cae4c57686d"],
+
+Cell[BoxData["\<\"hello\"\>"], "Output",
+ CellLabel->"Out[4]=",
+ CellID->468163620,ExpressionUUID->"5457ad4c-6a97-4482-9e20-fc5a4eb68a1d"]
+}, Open  ]]
+}, Dynamic[CurrentValue[
+ EvaluationNotebook[], {TaggingRules, "Openers", "ExampleSection", "0"}, 
+  Closed]]]]
+}, Dynamic[CurrentValue[
+ EvaluationNotebook[], {TaggingRules, "Openers", "PrimaryExamplesSection"}, 
+  Closed]]]],
+
+Cell[BoxData[GridBox[{
+   {
+    DynamicBox[FEPrivate`ImportImage[
+      FrontEnd`FileName[{"Documentation", "FooterIcons"}, 
+       "RelatedFunction.png"]],
+     ImageSizeCache->{50., {26.47265625, 33.52734375}}], GridBox[{
+      {
+       StyleBox[
+        RowBox[{"See", " ", "Also"}], "SeeAlsoSection"]},
+      {Cell[TextData[{
+        Cell[BoxData["DeconstructExpression"], "InlineFormula",
+         FontFamily->"Source Sans Pro",ExpressionUUID->
+         "eeeda151-e2db-4522-b85d-351b27d719a3"],
+        StyleBox[" \[FilledVerySmallSquare] ", "InlineSeparator"],
+        Cell[BoxData["MergeExpression"], "InlineFormula",
+         FontFamily->"Source Sans Pro",
+         CellTags->"641f15cf-e49c-4980-9e2b-006594c1753a",ExpressionUUID->
+         "0a1c0181-1096-44ac-8343-182fa3ad7a50"]
+       }], "SeeAlso",ExpressionUUID->"3f1759db-0e4a-460c-b141-1f2179496c8f"]}
+     }]}
+  }]], "SeeAlsoSection",ExpressionUUID->"37fa03d2-b993-4593-b8e4-\
+68b0bd42446f"],
+
+Cell[" ", "FooterCell",ExpressionUUID->"6afbe323-3930-422d-809d-eec5a2ee8ab5"]
+},
+Saveable->False,
+ScreenStyleEnvironment->"Working",
+WindowSize->{900, 830},
+WindowMargins->{{0, Automatic}, {Automatic, 0}},
+WindowTitle->"ReconstructExpression",
+TaggingRules->{
+ "ModificationHighlight" -> False, "ColorType" -> "", "LinkTrails" -> "", 
+  "ExampleCounter" -> 1, 
+  "Openers" -> {
+   "PrimaryExamplesSection" -> Open, "ExampleSection" -> {"0" -> Open}, 
+    "AllOptsTable" -> Closed}, "NewStyles" -> True, 
+  "CitationPopupData" -> $Failed, "ShowCitation" -> False, "HasOptions" -> 
+  True, "RootCaptions" -> "", "HeaderCoreAreaLink" -> {}, 
+  "Metadata" -> {
+   "built" -> "{2025, 6, 2, 22, 43, 33.682782}", 
+    "history" -> {"XX", "", "", ""}, "context" -> "FaizonZaman`Mergent`", 
+    "keywords" -> {}, "specialkeywords" -> {}, 
+    "tutorialcollectionlinks" -> {}, "index" -> True, "label" -> 
+    "Faizon Zaman/ Mergent Symbol", "language" -> "en", "paclet" -> 
+    "FaizonZaman/Mergent", "status" -> "None", "summary" -> 
+    "ReconstructExpression[<| h -> argindex |>] returns an expression with \
+head h and the keys of argindex as arguments", "synonyms" -> {}, 
+    "tabletags" -> {}, "title" -> "ReconstructExpression", "titlemodifier" -> 
+    "", "metadescription" -> "", "windowtitle" -> "ReconstructExpression", 
+    "type" -> "Symbol", "uri" -> 
+    "FaizonZaman/Mergent/ref/ReconstructExpression"}},
+CellContext->"Global`",
+FrontEndVersion->"14.2 for Mac OS X ARM (64-bit) (March 16, 2025)",
+StyleDefinitions->Notebook[{
+   Cell[
+    StyleData[
+    StyleDefinitions -> FrontEnd`FileName[{"Wolfram"}, "Reference.nb"]]], 
+   Cell[
+    StyleData["Input"], CellContext -> "Global`"], 
+   Cell[
+    StyleData["Output"], CellContext -> "Global`"]}, Visible -> False, 
+  FrontEndVersion -> "14.2 for Mac OS X ARM (64-bit) (March 16, 2025)", 
+  StyleDefinitions -> "PrivateStylesheetFormatting.nb"],
+ExpressionUUID->"72aaee00-c77d-48f9-a3a7-4fabf88d7efd"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{
+ "PrimaryExamplesSection"->{
+  Cell[5571, 150, 1438, 38, 34, "PrimaryExamplesSection",ExpressionUUID->"f43cc7e2-264b-4c60-a8ef-4ce32340ae29",
+   CellTags->"PrimaryExamplesSection",
+   CellID->1245204660]}
+ }
+*)
+(*CellTagsIndex
+CellTagsIndex->{
+ {"PrimaryExamplesSection", 14572, 394}
+ }
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[589, 21, 3039, 72, 50, "AnchorBarGrid",ExpressionUUID->"6ef844b7-5e1b-42b8-b98e-d54c0fc6ada6",
+ CellID->1],
+Cell[3631, 95, 102, 0, 22, "ContextNameCell",ExpressionUUID->"618595a5-6ba9-4865-bfb7-6b40a816d5be"],
+Cell[CellGroupData[{
+Cell[3758, 99, 564, 14, 57, "ObjectNameGrid",ExpressionUUID->"2e9d9308-1cd0-4bf5-9434-d7329f03f541"],
+Cell[4325, 115, 1209, 30, 106, "Usage",ExpressionUUID->"1f8482f8-0bd3-4bdd-8768-d6ac1f2aed2e",
+ CellID->2009673030]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[5571, 150, 1438, 38, 34, "PrimaryExamplesSection",ExpressionUUID->"f43cc7e2-264b-4c60-a8ef-4ce32340ae29",
+ CellTags->"PrimaryExamplesSection",
+ CellID->1245204660],
+Cell[7012, 190, 210, 4, 29, "Input",ExpressionUUID->"913a3f15-dc11-49cf-b899-6b4d873cb6a0",
+ CellID->172530246],
+Cell[CellGroupData[{
+Cell[7247, 198, 1415, 37, 29, "ExampleSection",ExpressionUUID->"54e774c7-5575-45f5-ba86-524241d8e36a",
+ CellID->926580605],
+Cell[8665, 237, 138, 1, 37, "ExampleText",ExpressionUUID->"08f67ee7-f18d-4ee0-9564-e1af24c0d772",
+ CellID->1739998604],
+Cell[CellGroupData[{
+Cell[8828, 242, 311, 7, 28, "Input",ExpressionUUID->"3f0bd8ed-895a-4117-8b3c-ecd959936456",
+ CellID->2063609831],
+Cell[9142, 251, 489, 13, 36, "Output",ExpressionUUID->"24e8f437-511c-4e44-9e32-e90ec35b0256",
+ CellID->964310671]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[9668, 269, 221, 4, 28, "Input",ExpressionUUID->"3d57eff3-11c2-4d34-94f2-9eefc9b6b643",
+ CellID->1602436155],
+Cell[9892, 275, 190, 4, 36, "Output",ExpressionUUID->"a438c13e-abeb-4d1c-b48d-21ce1d240734",
+ CellID->1452979472]
+}, Open  ]],
+Cell[10097, 282, 145, 1, 37, "ExampleText",ExpressionUUID->"7c7b346a-3789-4cb7-9416-287a6dd94533",
+ CellID->437438103],
+Cell[CellGroupData[{
+Cell[10267, 287, 260, 5, 28, "Input",ExpressionUUID->"fcdae490-5fee-4e10-a284-207b9bd7dc8b",
+ CellID->1850293073],
+Cell[10530, 294, 348, 8, 36, "Output",ExpressionUUID->"612191ee-636d-4192-998d-47b38ee7de28",
+ CellID->824074344]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[10915, 307, 225, 4, 28, "Input",ExpressionUUID->"9389ce9c-5d4c-4355-bd5d-7cae4c57686d",
+ CellID->1095460105],
+Cell[11143, 313, 138, 2, 36, "Output",ExpressionUUID->"5457ad4c-6a97-4482-9e20-fc5a4eb68a1d",
+ CellID->468163620]
+}, Open  ]]
+}, Dynamic[CurrentValue[EvaluationNotebook[], {TaggingRules, "Openers", "ExampleSection", "0"}, Closed]]]]
+}, Dynamic[CurrentValue[EvaluationNotebook[], {TaggingRules, "Openers", "PrimaryExamplesSection"}, Closed]]]],
+Cell[11523, 324, 957, 21, 112, "SeeAlsoSection",ExpressionUUID->"37fa03d2-b993-4593-b8e4-68b0bd42446f"],
+Cell[12483, 347, 78, 0, 24, "FooterCell",ExpressionUUID->"6afbe323-3930-422d-809d-eec5a2ee8ab5"]
+}
+]
+*)
+
+(* End of internal cache information *)
+
